@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+   display: flex;
+   justify-content: center;
+    margin-top: 250px;
+    word-spacing: 5px;
+
+}
+
+#billamt{
+    text-align: center;
+
+}
+
+#peopleamt{
+    text-align: center;
+}
+#one{
+    border: 5px solid;
+    height: 211px;
+    text-align: center;
+    padding-top: 22px;
+    background-color: beige;
+    width: 500px;
+   
+}
