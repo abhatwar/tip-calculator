@@ -20,7 +20,7 @@ if(a=='' || b==''|| c=='' ){
    var f=c-a;
    console.log(f);
 
-   var g=f/2;
+   var g=f/b;
    console.log(g);
 
 
