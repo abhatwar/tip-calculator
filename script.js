@@ -9,18 +9,18 @@ if(a=='' || b==''|| c=='' ){
     alert("you have to put the the amount");
 }
 
-    var d=a*e;
+    var d=a*e;//total tip
     console.log(d);
 
-   var c = parseInt(d)+parseInt(a);
+   var c = parseInt(d)+parseInt(a);//total bill with tip
    console.log(c);
 
-   var t=c/b;
+   var t=c/b;  //total bill distribution per candidate
 
-   var f=c-a;
+   var f=c-a;     //tip only=total bill-billamount
    console.log(f);
 
-   var g=f/b;
+   var g=f/b;  //tip distribution
    console.log(g);
 
 
